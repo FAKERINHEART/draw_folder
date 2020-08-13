@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-13T10:28:04.332Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3775.400 QQBrowser/10.6.4208.400" etag="aX93EdxdEWzwfgpsweja" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-13T10:28:55.778Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3775.400 QQBrowser/10.6.4208.400" etag="ptzQiEpa86OejWh4Vns_" version="13.6.0" type="github">
   <diagram id="hVP1Le8sTzmIoUoRDAnq" name="Page-1">
     <mxGraphModel dx="1381" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,8 +72,14 @@
         <mxCell id="XEBLtiGvCpJ2jnbF5ncU-28" value="将内存块映射为SHM_MANAGER" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="640" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-30" value="在SHM_MANGER结构体中为每个SHM_POOL划分管理区域，并初始化管理区域" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="311.5" y="759" width="157" height="60" as="geometry" />
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-30" target="XEBLtiGvCpJ2jnbF5ncU-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-30" value="在SHM_MANGER结构体中为每个SHM_POOL划分管理区域" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320.25" y="759" width="139.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-32" value="&lt;span&gt;初始化SHM_POOL管理区域&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="880" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
