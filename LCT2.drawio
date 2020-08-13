@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2020-08-13T10:56:17.281Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3775.400 QQBrowser/10.6.4208.400" etag="PMiBRPw9ChHM9pR6Cn1z" version="13.6.0" type="github"><diagram id="hVP1Le8sTzmIoUoRDAnq" name="Page-1">7Zpbc9o4FIB/jR4345ts6dE2Jp3dZNsp02nztOOCCu4aizEiwP76lWTJN5zETIGYKS+JdHSxrKPvXISBHS5393m8WjzSGUmBZcx2wB4ByzJtZPJ/QrIvJJ6nBPM8malOlWCS/EeU0FDSTTIj60ZHRmnKklVTOKVZRqasIYvznG6b3X7QtPnUVTwnB4LJNE4PpV+TGVsUUmR5lfwDSeYL/WTTxUXLMtad1ZusF/GMbmsiOwJ2mFPKitJyF5JUbJ7el2Lc+IXWcmE5yVifAd+i4IEl98/h6k/rZ/Z9DLPplz8ctTa21y9MZvz9VZXmbEHnNIvTqJIGOd1kMyJmNXit6vNA6YoLTS78SRjbK2XGG0a5aMGWqWolu4R9E8PvoKo91VpGOzWzrOx1JWP5vjZIVJ/qbdUwWdPj1iyn/5aq45seHO6b2so13eRT8spm6fMX53PCXulnFf3ETtYeoLRyT+iS8BXyDjlJY5Y8N09arA7svOxX6ZQXlFqPULGa9zlON+pJIIIAIYBHouB7AAVSEgLsikIQAmRUTQcHJE05fOIgbBcJI5NVLDdty/lvqjlerwoifyQ7cVyO0cUzyRnZvbp7qtWGii9lYGxV3dZoVaJFDVQtO/l2oxtR/YmyehLlDoooq4MoF/gGCLAooBHwIxBhgKAoRx4ICgkSf31TSHgBe5MPj//8FT0dHJjmcXiDsvNAZTehMt1DqkyrAyv3XFiZ5sE2XZArs0ZVxVg3V6fkw+3Jh2mfGhA19BNN+JrLcwEd2DS2uKXvYqVqVKVyP8/jfa3bSnRYv/wcz2sZdRO2TlAxY3Weynf8Baztm+k+/dG0hhUNuZ22G3PTPBYhDz/PPg+CHBAgEPifo8mXx0gadyQNdxEc8Z5jUcDjQ9O9oMvvm/V7mW3TumsCWsY5dcMN4aHh9s5muN0bVUekGHZfiw8HhZVed4MrD+AABI6MiXjgAyU/hsw7JG8YikLAC1HZR8dEos5R8xSUWEZN2AfIkbkKn8iUmPrAL7IXVwhF0jISNJ84pIrTZJ7x8pQrlOSngdUzWj6uK8ZyOmIs52yoOh1KfCVVdGWTTBWR32UNT5kqnkMFqJU7lmHHeyWP5V3R4I3lSY0e7Gv00KCMnvVb5iT9teUMSlt63Q3r1nY/XcHgm2buF4K+8ziWZgwIjQ7HYl80eUfHORYucaSDRyJ88OHVORbPHppjuUXhR5g4nbO+ndwOKwrX625x1o65C/IkcAEP0P0y5lZpr7i7xI68sjwm5i6SYo6wmBeDwO0T719DpK5vnzTNjtWVVF8yUtc/Pw4/8qhwbsBcsX0JnK81vsQ3o30GLVsD0/LvEpfa1tDiUvtdE7irAwz1BEzrcCiAdWcfPDJBblcYA0XEgj2NnKE7O2WAJAKmR/9v/z76fBXxSysbcZ2ev+bCs4F3+6ntCPC0+t4GzxoUeHrdLfBwCHykEBIEiQ8kAoBtCVykORtJiQSOc1mlJq5wguInuKJJsvjp48cHndbomwXBtld9cIFL2kM5DRQOs8tnDhBfy7hruU4P4g7Xie86ftg7n/O8+m8HzUsy3PdKYWC3pnrddYYtN2Vie1ZxxstzUe73AVTtguCFu7+K5pJ8dQUhW7jHlS1jSTV/kilD4vq8oXTmrpjUD6tBkncBvieGqu8bHfF05d3HsmkEEK4K6kX5xjXe9RpsRusOGHV9B+CdxuXzavUVc/ExTvUtuB39Dw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-13T10:56:38.068Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3775.400 QQBrowser/10.6.4208.400" etag="IES4piamyC1fdcZ7lKBR" version="13.6.0" type="github">
+  <diagram id="hVP1Le8sTzmIoUoRDAnq" name="Page-1">
+    <mxGraphModel dx="1381" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-1" target="XEBLtiGvCpJ2jnbF5ncU-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-1" value="分配开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="350" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-2" target="XEBLtiGvCpJ2jnbF5ncU-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-2" value="根据配置计算SHM_KEY" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="330" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-6" target="XEBLtiGvCpJ2jnbF5ncU-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-6" target="XEBLtiGvCpJ2jnbF5ncU-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-6" value="是否为RESUME模式？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="312.5" y="280" width="155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-13" target="XEBLtiGvCpJ2jnbF5ncU-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-13" value="直接尝试连接SHM_KEY指向的共享内存" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="700" y="360" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-14" value="初始化成功" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="850" y="770" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-15" target="XEBLtiGvCpJ2jnbF5ncU-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-15" target="XEBLtiGvCpJ2jnbF5ncU-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-15" value="连接是否成功" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="705" y="500" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-18" value="初始化失败" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="730" y="770" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-22" target="XEBLtiGvCpJ2jnbF5ncU-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-22" value="尝试创建SHM_KEY为键的共享内存，并尝试连接" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="315" y="420" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-25" target="XEBLtiGvCpJ2jnbF5ncU-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-25" target="XEBLtiGvCpJ2jnbF5ncU-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-25" value="连接是否成功" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="325" y="500" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-28" target="XEBLtiGvCpJ2jnbF5ncU-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-28" value="将内存块映射为SHM_MANAGER" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="330" y="640" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-30" target="XEBLtiGvCpJ2jnbF5ncU-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-30" value="在SHM_MANGER结构体中为每个SHM_POOL划分管理区域" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="320.25" y="759" width="139.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-32" target="XEBLtiGvCpJ2jnbF5ncU-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-32" value="&lt;span&gt;根据配置，初始化SHM_POOL中的SHM_PAGE信息，包括SHM_PAGE基础大小等等&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="305" y="880" width="170" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
