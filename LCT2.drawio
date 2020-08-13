@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-13T11:00:02.705Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3775.400 QQBrowser/10.6.4208.400" etag="q69cSUurYa_afn5a17Gi" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-13T11:06:50.432Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3775.400 QQBrowser/10.6.4208.400" etag="IcLU5okVUOmkTeiCZDay" version="13.6.0" type="github">
   <diagram id="hVP1Le8sTzmIoUoRDAnq" name="Page-1">
     <mxGraphModel dx="1381" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="770" y="315" />
+              <mxPoint x="1281" y="315" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -30,46 +30,73 @@
         <mxCell id="XEBLtiGvCpJ2jnbF5ncU-6" value="是否初始化过？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="312.5" y="280" width="155" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-14" value="初始化成功" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;align=center;" parent="1" vertex="1">
-          <mxGeometry x="850" y="770" width="80" height="80" as="geometry" />
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-14" value="分配成功" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="350" y="940" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XEBLtiGvCpJ2jnbF5ncU-18" value="分配失败" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;align=center;" parent="1" vertex="1">
-          <mxGeometry x="730" y="770" width="80" height="80" as="geometry" />
+          <mxGeometry x="1241" y="580" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-22" value="SHM_POOL的当前分配SHM_PAGE是否分配完毕" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" parent="1" vertex="1">
-          <mxGeometry x="80" y="440" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-25" target="XEBLtiGvCpJ2jnbF5ncU-18" edge="1">
+        <mxCell id="wJZb20HWOkz9L2VV14JO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-22" target="wJZb20HWOkz9L2VV14JO-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-25" target="XEBLtiGvCpJ2jnbF5ncU-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-25" value="连接是否成功" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" parent="1" vertex="1">
-          <mxGeometry x="334.75" y="550" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-28" target="XEBLtiGvCpJ2jnbF5ncU-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-28" value="将内存块映射为SHM_MANAGER" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" parent="1" vertex="1">
-          <mxGeometry x="339.75" y="690" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-30" edge="1">
+        <mxCell id="wJZb20HWOkz9L2VV14JO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="399.75" y="930" as="targetPoint" />
+            <mxPoint x="875" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-30" value="在SHM_MANGER结构体中为每个SHM_POOL划分管理区域" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" parent="1" vertex="1">
-          <mxGeometry x="330" y="809" width="139.5" height="60" as="geometry" />
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-22" value="尝试去内存申请新的SHM_PAGE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="800" y="600" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-32" target="XEBLtiGvCpJ2jnbF5ncU-14" edge="1">
+        <mxCell id="wJZb20HWOkz9L2VV14JO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="wJZb20HWOkz9L2VV14JO-1" target="wJZb20HWOkz9L2VV14JO-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-32" value="&lt;span&gt;根据配置，初始化SHM_POOL中的SHM_PAGE信息，包括SHM_PAGE基础大小等等&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" parent="1" vertex="1">
-          <mxGeometry x="312.5" y="1110" width="170" height="50" as="geometry" />
+        <mxCell id="wJZb20HWOkz9L2VV14JO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="wJZb20HWOkz9L2VV14JO-1" target="wJZb20HWOkz9L2VV14JO-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wJZb20HWOkz9L2VV14JO-1" value="SHM_POOL的当前分配SHM_PAGE是否分配完毕？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="296.25" y="430" width="187.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wJZb20HWOkz9L2VV14JO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="wJZb20HWOkz9L2VV14JO-3" target="wJZb20HWOkz9L2VV14JO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wJZb20HWOkz9L2VV14JO-3" value="尝试向前滚动寻找新的可用SHM_PAGE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wJZb20HWOkz9L2VV14JO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="wJZb20HWOkz9L2VV14JO-6" target="XEBLtiGvCpJ2jnbF5ncU-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wJZb20HWOkz9L2VV14JO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="wJZb20HWOkz9L2VV14JO-6" target="wJZb20HWOkz9L2VV14JO-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wJZb20HWOkz9L2VV14JO-6" value="是否找到了新的SHM_PAGE?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="536.25" y="585" width="187.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wJZb20HWOkz9L2VV14JO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="wJZb20HWOkz9L2VV14JO-10" target="XEBLtiGvCpJ2jnbF5ncU-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wJZb20HWOkz9L2VV14JO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="wJZb20HWOkz9L2VV14JO-10" target="wJZb20HWOkz9L2VV14JO-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wJZb20HWOkz9L2VV14JO-10" value="是否申请成功？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="585" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wJZb20HWOkz9L2VV14JO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="wJZb20HWOkz9L2VV14JO-13" target="XEBLtiGvCpJ2jnbF5ncU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wJZb20HWOkz9L2VV14JO-13" value="从SHM_PAGE中空闲链表中拿出未分配的SHM_UNIT返回出去" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wJZb20HWOkz9L2VV14JO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="wJZb20HWOkz9L2VV14JO-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wJZb20HWOkz9L2VV14JO-16" value="初始化新的SHM_PAGE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="820" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
