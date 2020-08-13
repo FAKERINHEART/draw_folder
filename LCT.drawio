@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-13T10:28:55.778Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3775.400 QQBrowser/10.6.4208.400" etag="ptzQiEpa86OejWh4Vns_" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-13T10:29:07.856Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3775.400 QQBrowser/10.6.4208.400" etag="y40iQKe-DTDgEWSUcUHQ" version="13.6.0" type="github">
   <diagram id="hVP1Le8sTzmIoUoRDAnq" name="Page-1">
     <mxGraphModel dx="1381" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
           <mxGeometry x="320.25" y="759" width="139.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XEBLtiGvCpJ2jnbF5ncU-32" value="&lt;span&gt;初始化SHM_POOL管理区域&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="880" width="120" height="50" as="geometry" />
+          <mxGeometry x="310" y="880" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
