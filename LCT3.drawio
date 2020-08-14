@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T07:14:04.748Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3775.400 QQBrowser/10.6.4208.400" etag="IWszQgz2Qez4KX98UuO9" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-14T07:14:11.604Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3775.400 QQBrowser/10.6.4208.400" etag="Q7NldNb45Vbm86xNan_k" version="13.6.0" type="github">
   <diagram id="hVP1Le8sTzmIoUoRDAnq" name="Page-1">
     <mxGraphModel dx="1381" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="XEBLtiGvCpJ2jnbF5ncU-6" value="是否初始化过？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="312.5" y="280" width="155" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-14" value="分配成功" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-14" value="释放成功" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="350" y="940" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wJZb20HWOkz9L2VV14JO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-22" target="wJZb20HWOkz9L2VV14JO-10" edge="1">
