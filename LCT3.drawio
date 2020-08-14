@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T07:14:11.604Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3775.400 QQBrowser/10.6.4208.400" etag="Q7NldNb45Vbm86xNan_k" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-14T10:46:10.151Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3775.400 QQBrowser/10.6.4208.400" etag="LZjOeGM4nScbYJ4mHCYf" version="13.6.2" type="github">
   <diagram id="hVP1Le8sTzmIoUoRDAnq" name="Page-1">
     <mxGraphModel dx="1381" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="XEBLtiGvCpJ2jnbF5ncU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-2" target="XEBLtiGvCpJ2jnbF5ncU-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-2" value="根据SHM_TYPE找到对应的SHM_POOL" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="330" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="XEBLtiGvCpJ2jnbF5ncU-2" value="根据传入的SHM_MID释放到相应的SHM_UNIT，并将其放入所在SHM_PAGE的空闲链表中" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="305" y="160" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wJZb20HWOkz9L2VV14JO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-6" target="wJZb20HWOkz9L2VV14JO-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
