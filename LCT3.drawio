@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T10:53:37.724Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3775.400 QQBrowser/10.6.4208.400" etag="Cs9uZ2ImLiZgmAzPDyfm" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-14T10:54:52.948Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3775.400 QQBrowser/10.6.4208.400" etag="ULol2PK6xqYHOQNIrlco" version="13.6.2" type="github">
   <diagram id="hVP1Le8sTzmIoUoRDAnq" name="Page-1">
-    <mxGraphModel dx="1381" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1381" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,8 @@
         <mxCell id="ncePUR6nF9aSfhuZWN1H-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="XEBLtiGvCpJ2jnbF5ncU-6" target="XEBLtiGvCpJ2jnbF5ncU-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="315" />
-              <mxPoint x="730" y="980" />
+              <mxPoint x="820" y="315" />
+              <mxPoint x="820" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -36,9 +36,9 @@
         <mxCell id="wJZb20HWOkz9L2VV14JO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="wJZb20HWOkz9L2VV14JO-1" target="wJZb20HWOkz9L2VV14JO-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ncePUR6nF9aSfhuZWN1H-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="wJZb20HWOkz9L2VV14JO-1">
+        <mxCell id="ncePUR6nF9aSfhuZWN1H-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="wJZb20HWOkz9L2VV14JO-1" target="ncePUR6nF9aSfhuZWN1H-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="465" as="targetPoint" />
+            <mxPoint x="630" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wJZb20HWOkz9L2VV14JO-1" value="当前SHM_PAGE是否不是当&lt;br&gt;前正在分配的SHM_PAGE？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
@@ -49,6 +49,14 @@
         </mxCell>
         <mxCell id="wJZb20HWOkz9L2VV14JO-13" value="从SHM_PAGE中空闲链表中拿出未分配的SHM_UNIT返回出去" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="330" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ncePUR6nF9aSfhuZWN1H-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="ncePUR6nF9aSfhuZWN1H-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ncePUR6nF9aSfhuZWN1H-3" value="从SHM_PAGE中空闲链表中拿出未分配的SHM_UNIT返回出去" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
